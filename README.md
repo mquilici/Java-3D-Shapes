@@ -16,5 +16,5 @@ While implementing the BST class in the artifact, I learned several key facts. T
 
 ### Running the program
 The following are required to run this program:
-- Download the [Java 3D Shapes program](https://github.com/mquilici/Java-3D-Shapes)
+- Download the [Java 3D Shapes program](https://github.com/mquilici/Java-3D-Shapes/ShapesGUI.jar)
 - Install [a Java Runtime Environment (JRE)](https://www.java.com/en/download/) if necessary.
