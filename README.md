@@ -1,5 +1,4 @@
 # Java-3D-Shapes
-A Java program that draws a variety of 3D shapes with diffuse and specular lighting.
 
 ![](images/Shapes_Sync.jpg)
 
