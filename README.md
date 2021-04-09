@@ -8,7 +8,6 @@
      <img src="/images/Shape3.png" alt="alt text" width="480px">
      <img src="/images/Shape1.png" alt="alt text" width="480px">
 </p>
-<br/>
 
 ### Description
 This is a Java program that I wrote during my free time while studying at SNHU. The program draws 15 different 3D objects by transforming their vertices from object space to screen space using rotation matrices and a perspective projection. After transformation, the points are drawn using standard Java Graphics2D methods. Objects can be rotate dby clicking and dragging or by using the arrow keys. Objects can be changed using buttons on the screen and various settings like like antialiasing can be enabled using checkboxes.
