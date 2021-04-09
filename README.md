@@ -1,6 +1,6 @@
 # Java-3D-Shapes
 
-![](images/Shapes_Sync.jpg)
+![](images/Sync.png)
 ![](images/Shape1.png)
 ![](images/Shape2.png)
 ![](images/Shape3.png)
