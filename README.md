@@ -1,12 +1,12 @@
 # Java-3D-Shapes
 
 <p align="center">
-     <img src="/images/Sync.png" alt="alt text" width="300px">
-     <img src="/images/Shape1.png" alt="alt text" width="300px">
+     <img src="/images/Sync.png" alt="alt text" width="480px">
+     <img src="/images/Shape1.png" alt="alt text" width="480px">
 </p>
 <p align="center">
-     <img src="/images/Shape3.png" alt="alt text" width="300px">
-     <img src="/images/Shape4.png" alt="alt text" width="300px">
+     <img src="/images/Shape3.png" alt="alt text" width="480px">
+     <img src="/images/Shape4.png" alt="alt text" width="480px">
 </p>
 <br/>
 
