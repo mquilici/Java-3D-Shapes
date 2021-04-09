@@ -6,7 +6,7 @@
 </p>
 <p align="center">
      <img src="/images/Shape3.png" alt="alt text" width="480px">
-     <img src="/images/Shape4.png" alt="alt text" width="480px">
+     <img src="/images/Shape1.png" alt="alt text" width="480px">
 </p>
 <br/>
 
