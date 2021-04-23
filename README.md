@@ -24,5 +24,5 @@ I exceeded my objectives for this project as I initially intended only intended 
 While implementing the BST class in the artifact, I learned several key facts. The approach I used previously to create a BST in C++ utilized pointers to child nodes. Java does not have pointers, instead objects are accessed through references to their instances. Additional differences include the way in which nodes are accessed. For example, in Java, nodes are accessed using dot notation like node.left or node.right. In C++, the nodes are accessed using arrow notation like node->left or node->right because each child node is a pointer to an object. These differences made the Java implementation easier implement. While switching between C++ and Java can be challenging, I found the process to be helpful for furthering my understanding of both languages.
 
 ### Running the program
-* Download the [ShapesGUI.jar](https://github.com/mquilici/Java-3D-Shapes/ShapesGUI.jar)
+* Download [ShapesGUI.jar](https://github.com/mquilici/Java-3D-Shapes/ShapesGUI.jar)
 * Install a [Java Runtime Environment (JRE)](https://www.java.com/en/download/) if necessary.
